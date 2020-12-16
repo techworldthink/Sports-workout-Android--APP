@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SportsApp</string>
+    <string name="textview">WORKOUT REGISTER</string>
+    <string name="criket">CRICKET</string>
+    <string name="football">FOOTBALL</string>
+    <string name="baseball">BASEBALL</string>
+    <string name="gym">GYM</string>
+    <string name="not">NOT ADDED</string>
+    <string name="yes">ADDED</string>
+    <string name="check">CHECK</string>
+    <string name="footer">Developed By Jobin J</string>
+    <string name="print">PRINT</string>
+    <string name="cri">CRI</string>
+    <string name="foo">FOO</string>
+    <string name="bas">BAS</string>
+    <string name="list">list</string>
+
+</resources>

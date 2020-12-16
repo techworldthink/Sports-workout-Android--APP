@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <!-- background -->
+            <solid android:drawable="@color/colorPrimaryDark" />
+            <!-- border -->
+            <stroke android:width="2dp" android:color="@color/white" />
+
+            <!-- corner roundness -->
+            <corners android:radius="23dp" />
+        </shape>
+
+
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <!-- background -->
+            <solid android:color="@color/button_land_bac"></solid>
+            <!-- border -->
+            <stroke android:width="2dp" android:color="@color/dark" />
+
+            <!-- corner roundness -->
+            <corners android:radius="23dp" />
+        </shape>
+    </item>
+</selector>
